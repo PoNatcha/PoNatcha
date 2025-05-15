@@ -14,9 +14,9 @@
 ---
 
 ### ⚡ Fun Fact  
-During my Advanced Digital Design class, I tried to build a line-tracking car using infrared sensors... but ran into so many problems that the circuit exploded, the capacitor blew, and I fried the board twice!  
-So yeah, the car didn’t track the line, but I got plenty of laughs and lessons out of it 😂
-
+During my Advanced Digital Design class, I built a line-tracking car using infrared sensors...
+It actually worked pretty well — but only after I replaced a bunch of parts because the circuit exploded, the capacitor blew, and I fried the board twice!
+So yeah, the car tracked the line... eventually. And I got plenty of laughs and lessons out of the whole adventure 😂
 ---
 
 ### Languages & Frameworks  
