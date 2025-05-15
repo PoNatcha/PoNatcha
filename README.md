@@ -53,9 +53,16 @@ So yeah, the car tracked the line... eventually. And I got plenty of laughs and 
 
 ---
 
-### 🤝 Special Thanks  
-This project was developed with the support and assistance of various tools and collaborators, including:
 
-- **ChatGPT by OpenAI** — providing coding help, design suggestions, and general guidance throughout the development process.
+### 🙏 Special Thanks  
+This project was developed with the support and assistance of various tools, communities, and collaborators, including:
 
-Thanks to these invaluable resources, I was able to learn faster and solve problems more effectively!
+- **ChatGPT by OpenAI** — for providing coding help, design suggestions, and general guidance throughout the development process  
+- **Everyone at Asha Tech Corporation** — for their warm mentorship, guidance, and encouragement during my internship  
+- **Stack Overflow** — for quick answers and deep dives into technical issues  
+- **GitHub Docs** — for official guides on Git, version control, and project management  
+- **FreeCodeCamp & W3Schools** — for helpful tutorials and beginner-friendly resources  
+- **Friends, Classmates, and Instructors** — for support, code reviews, and knowledge sharing 💙
+
+Thanks to these invaluable resources and kind people, I was able to learn faster, solve challenges better, and grow more confident as a developer 🚀
+
