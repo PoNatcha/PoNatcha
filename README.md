@@ -35,7 +35,6 @@ So yeah, the car tracked the line... eventually. And I got plenty of laughs and 
 ![Laravel](https://img.shields.io/badge/-Laravel-F9532F?style=for-the-badge&logo=laravel&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![.NET Framework](https://img.shields.io/badge/-.NET_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ---
 
