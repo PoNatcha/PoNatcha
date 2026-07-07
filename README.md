@@ -13,8 +13,7 @@
 
 ### 🧰 Frameworks & Libraries  
 ![Laravel](https://img.shields.io/badge/-Laravel-F9532F?style=for-the-badge&logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 
 ---
 
