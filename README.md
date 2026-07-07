@@ -1,24 +1,4 @@
-# Hi there! 👋 I'm @PoNatcha
 
-> Passionate Backend Dev & Networking Enthusiast  
-> Always eager to learn, grow, and collaborate!
-
----
-
-### About Me  
-- 👀 Currently interested in **Backend Development** and **Networking**  
-- 🌱 Studying Computer Engineering (coding + networking stuff)  
-- 💞️ Looking to collaborate with people who are kind and willing to teach, so I can grow and improve  
-- 📫 Reach me on [Facebook](https://www.facebook.com/Natcha.O.49)  
-
----
-
-### ⚡ Fun Fact  
-During my Advanced Digital Design class, I built a line-tracking car using infrared sensors...  
-It actually worked pretty well — but only after I replaced a bunch of parts because the circuit exploded, the capacitor blew, and I fried the board twice!  
-So yeah, the car tracked the line... eventually. And I got plenty of laughs and lessons out of the whole adventure 😂
-
----
 
 ### 🖥️ Languages  
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
